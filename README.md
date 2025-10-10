@@ -7,3 +7,8 @@ A página da biblioteca Triple Peaks é o terceiro projeto no programa de desenv
 - HTML5 semântico
 - Flexbox
 - Posicionamento
+
+### Melhorias do projeto
+
+- Adicionar um telefone de contato
+- Adicionar um link para WhatsApp
